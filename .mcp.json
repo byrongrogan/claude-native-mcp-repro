@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "ij4010": {
+      "type": "sse",
+      "url": "http://127.0.0.1:4010/sse"
+    }
+  }
+}
